@@ -1,8 +1,8 @@
 # React redux-toolkit starter
 
 [![Edit react-context-mutex](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/marcveens/react-redux-toolkit-starter) <br />
-[:pencil2: Edit on GitHub Codespaces](https://marcveens-react-redux-toolkit-starter-q325.github.dev/) <br />
-[:orange_book: View my blog at marcveens.nl](https://www.marcveens.nl/)
+[:pencil2: Edit on GitHub Codespaces](https://marcveens-react-redux-toolkit-starter-49v2.github.dev/) <br />
+[:orange_book: Read my blog at marcveens.nl](https://www.marcveens.nl/)
 
 ---
 
