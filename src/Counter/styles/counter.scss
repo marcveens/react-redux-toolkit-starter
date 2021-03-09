@@ -1,0 +1,27 @@
+.counter {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  background-color: #EEE;
+  user-select: none;
+
+  &__icon {
+    padding: 5px;
+    width: 10px;
+    height: 10px;
+    cursor: pointer;
+
+    svg {
+      display: block;
+    }
+
+    &--upvote {
+      transform: rotate(180deg);
+      fill: #cc3700;
+    }
+
+    &--downvote {
+      fill: #5a75cc;
+    }
+  }
+}
